@@ -45,11 +45,18 @@
 // addUp(7, 3);
 // console.log(addUp(2, 5))
 
-let orderCount = 0;
+// let orderCount = 0;
 
-const takeOrder = (topping1, topping2) => {
-    console.log(`Pizza with ${topping1} and ${topping2}`)
-    orderCount++;
-}
+// const takeOrder = (topping1, topping2) => {
+//     console.log(`Pizza with ${topping1} and ${topping2}`)
+//     orderCount++;
+// }
 
-takeOrder('chilli', 'chrizo');
+// takeOrder('chilli', 'chrizo');
+
+// const multilper = (num1, num2) => {
+//     return num1 * num2
+// }
+
+// console.log(multilper(2, 2))
+
